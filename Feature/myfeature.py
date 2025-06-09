@@ -8,3 +8,4 @@ if is_palindrome(word):
     print("It's a palindrome!")
 else:
     print("Not a palindrome.")
+    print("Welcome to DevAsc")
